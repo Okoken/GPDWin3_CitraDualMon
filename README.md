@@ -6,9 +6,9 @@ This tool can let you separate Citra 2 screens to the GPD Win 3 screen and a sma
 Can check below video to see the demo.   
 可观看以下视频了解实际效果。  
 # Youtube:  
-
+https://youtu.be/l-Dg2KB10AA
 # Bilibili:  
-
+https://www.bilibili.com/video/BV12Q4y1Y7qz/
 
 Tools to be downloaded/installed.  
 需下载或安装的工具  
